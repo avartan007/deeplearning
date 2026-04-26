@@ -1,0 +1,10 @@
+# Ignore everything in this directory
+*
+
+# Except for these specific files
+!1.ipynb
+!2.ipynb
+!3.ipynb
+!4.ipynb
+!README.md
+!.gitignore
